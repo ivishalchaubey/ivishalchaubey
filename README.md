@@ -5,8 +5,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+Native+Expert;Node.js+Developer;JavaScript+Enthusiast;YouTube+Educator" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ivishalchaubey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivishalchaubey)
-[![YouTube](https://img.shields.io/badge/YouTube-codsod-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/_codsod)
+[![YouTube](https://img.shields.io/badge/YouTube-codsod-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@_codsod)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Vishal_Chaubey-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ivishalchaubey.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-@ivishalchaubey-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ivishalchaubey)
+[![Facebook](https://img.shields.io/badge/Facebook-@ivishalchaubey-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ivishalchaubey)
 [![Email](https://img.shields.io/badge/Email-ivishalchaubey-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivishalchaubey@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ivishalchaubey-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivishalchaubey)
 
@@ -62,7 +64,7 @@ const vishal = {
 
 - 🔭 **Currently working on:** Advanced React Native applications and YouTube tutorials
 - 🌱 **Currently learning:** GraphQL, AWS Services, and Advanced Animation
-- 👨‍🏫 **Teaching at:** [Codsod YouTube Channel](https://youtube.com/c/_codsod)
+- 👨‍🏫 **Teaching at:** [Codsod YouTube Channel](https://youtube.com/@_codsod)
 - 💬 **Ask me about:** React Native, Expo, Node.js, API Development
 - 📫 **How to reach me:** [ivishalchaubey@gmail.com](mailto:ivishalchaubey@gmail.com)
 
@@ -72,7 +74,7 @@ const vishal = {
 - Coming soon...
 <!-- YOUTUBE:END -->
 
-▶️ [More Videos...](https://youtube.com/c/_codsod)
+▶️ [More Videos...](https://youtube.com/@_codsod)
 
 ## 📝 Latest Blog Posts
 
@@ -96,8 +98,14 @@ const vishal = {
 ## 🔗 Connect With Me
 
 <a href="https://linkedin.com/in/ivishalchaubey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://youtube.com/c/_codsod"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://youtube.com/@_codsod"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://twitter.com/ivishalchaubey"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.instagram.com/ivishalchaubey">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/ivishalchaubey">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 <a href="mailto:ivishalchaubey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/ivishalchaubey"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
