@@ -1,54 +1,116 @@
-<h1 align="center">Hi 👋, I'm Vishal Kumar Chaubey</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
+<div align="center">
+  
+# Vishal Kumar Chaubey
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ivishalchaubey&label=Profile%20views&color=0e75b6&style=flat" alt="ivishalchaubey" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+Native+Expert;Node.js+Developer;JavaScript+Enthusiast;YouTube+Educator" alt="Typing SVG" />
 
-- 🔭 I’m currently working as a **Full Stack Developer**
-- 👨‍💻 I have **3+ years of experience** in development
-- 📱 I specialize in **React Native, React.js, Node.js, Express.js**
-- 🌱 Currently learning **Next.js** and **Backend Architecture**
-- 📹 I own a **YouTube channel - [Codsod](https://www.youtube.com/@codsod)** where I post tech tutorials in Hindi
-- 💬 Ask me about anything related to **MERN Stack** and **Mobile App Development**
-- 📫 Reach me at: **vishalkumarchaubey.dev@gmail.com**
-- ⚡ Fun fact: I love building mobile apps that solve real-world problems!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ivishalchaubey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivishalchaubey)
+[![YouTube](https://img.shields.io/badge/YouTube-codsod-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/_codsod)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Vishal_Chaubey-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ivishalchaubey.vercel.app)
+[![Email](https://img.shields.io/badge/Email-ivishalchaubey-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivishalchaubey@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ivishalchaubey-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivishalchaubey)
+
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=ivishalchaubey&data=followers,repositories,stars,commits&theme=radical" alt="GitHub WidgetBox" />
+</div>
+
+## 👨‍💻 About Me
+
+I'm a passionate Full Stack Developer with 3+ years of professional experience building robust and scalable applications. My expertise spans across the entire JavaScript ecosystem, with particular focus on React Native, React.js, Node.js, and Express.js.
+
+When I'm not coding client projects, I share my knowledge on my YouTube channel **codsod**, where I teach programming with emphasis on Expo, React Native, and backend development.
+
+```javascript
+const vishal = {
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  frameworks: {
+    mobile: ["React Native", "Expo"],
+    frontend: ["React", "Redux", "Context API", "Styled Components"],
+    backend: ["Node.js", "Express", "MongoDB", "RESTful APIs"],
+  },
+  currentFocus: "Building scalable applications and sharing knowledge",
+  funFact: "I believe clean code is as important as working code"
+};
+```
+
+<div align="center">
+  
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,js,ts,mongodb,html,css,git,vscode,firebase&theme=dark" alt="Tech Stack" />
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivishalchaubey&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivishalchaubey&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivishalchaubey&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ivishalchaubey&theme=redical&hide_border=true" alt="Contribution Graph" />
+</div>
+
+## 🚀 My Journey
+
+- 🔭 **Currently working on:** Advanced React Native applications and YouTube tutorials
+- 🌱 **Currently learning:** GraphQL, AWS Services, and Advanced Animation
+- 👨‍🏫 **Teaching at:** [Codsod YouTube Channel](https://youtube.com/c/_codsod)
+- 💬 **Ask me about:** React Native, Expo, Node.js, API Development
+- 📫 **How to reach me:** [ivishalchaubey@gmail.com](mailto:ivishalchaubey@gmail.com)
+
+## 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- Coming soon...
+<!-- YOUTUBE:END -->
+
+▶️ [More Videos...](https://youtube.com/c/_codsod)
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- Coming soon...
+<!-- BLOG-POST-LIST:END -->
+
+## ♨️ My Work Approach
+
+```
+1. Understand the problem thoroughly 
+2. Design a clean and scalable solution
+3. Implement with quality code
+4. Test rigorously
+5. Deploy with confidence
+6. Share knowledge with others
+```
+
+<div align="center">
+
+## 🔗 Connect With Me
+
+<a href="https://linkedin.com/in/ivishalchaubey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://youtube.com/c/_codsod"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://twitter.com/ivishalchaubey"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="mailto:ivishalchaubey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/ivishalchaubey"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
----
-
-### 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivishalchaubey&show_icons=true&theme=radical" alt="Vishal's GitHub Stats" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ivishalchaubey&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ivishalchaubey&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 🔗 Let's Connect:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/vishalkumarchaubey/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vishalkumarchaubey.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.youtube.com/@codsod" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Codsod-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Codsod" />
-  </a>
-</p>
+  
+  <h3>Thank you for visiting my profile!</h3>
+  
+  ![Wave](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Wave.gif)
+</div>
